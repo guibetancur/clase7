@@ -1,0 +1,65 @@
+.clase1 {
+  color:blue;
+}
+.padding1{
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+.padding2{
+  padding: 10px 10px 10px 10px;
+}
+.ancho {
+  /*width:100px; tambien se puede definir*/
+  width:60%;
+}
+.altura {
+  height: 10px;
+}
+.box1 {
+  width:auto;
+  border: 25px solid green;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 50px;
+}
+.box2 {
+  width: 250px;
+  border: 30px solid blue;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 10px;
+}
+h1 {
+  text-align: center;
+  text-shadow: 3px 2px red;
+}
+h2 {
+  text-align: left;
+}
+h3 {
+  text-align: right;
+}
+.pgb {
+  text-align: justify;
+  width:300px;
+  margin:solid green;
+  border-style: solid;
+  border-color: red;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+ a:link {
+   color:blue;
+   text-decoration: none;
+ }
+a:visited {
+  color:red;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: black;
+}

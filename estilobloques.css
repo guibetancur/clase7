@@ -1,0 +1,15 @@
+div {
+  width:100px;
+  height: 100px;
+  margin: 10px;
+  border-style: 1px solid;
+  border-color: black;
+  border-style: solid;
+  display: inline-block;
+}
+div.divrojo {
+  background-color: red;
+}
+div.divazul {
+  background-color: blue;
+}
